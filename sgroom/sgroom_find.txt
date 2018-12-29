@@ -1,0 +1,20 @@
+[
+    {
+        "region": "Commonwealth",
+        "title": "近荷兰村博纳维斯塔大普通房，1月底即可入住，$800包水电网冷气，可煮，无房东",
+        "price": 800,
+        "url": "https://www.sgroom.com/web/post/2439231/"
+    },
+    {
+        "region": "Buona Vista",
+        "title": "近荷兰村博纳维斯塔大普通房，1月底即可入住，$800包水电网冷气，可煮，无房东",
+        "price": 800,
+        "url": "https://www.sgroom.com/web/post/2439231/"
+    },
+    {
+        "region": "Lakeside",
+        "title": "文礼大牌186 ,双人单间出租,水电网全包，可煮，近超市食阁巴刹",
+        "price": 750,
+        "url": "https://www.sgroom.com/web/post/2661042/"
+    }
+]
